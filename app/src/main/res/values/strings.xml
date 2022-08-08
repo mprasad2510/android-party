@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NortonTestApplication</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="log_in">Log In</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="testio">testio.</string>
+</resources>
