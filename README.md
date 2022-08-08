@@ -1,6 +1,6 @@
 # android-party
 
-This repository contains a detailed kotlin app that implements MVVM architecture using Hilt , Room, Coroutine , navigation component , Retrofit.
+This repository contains a sample kotlin app that implements MVVM architecture using Hilt , Room, Coroutine , navigation component , Retrofit.
 
 The app has following packages:
 
